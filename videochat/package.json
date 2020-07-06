@@ -5,6 +5,7 @@
    "author": "Author",
    "license": "BSD-2-Clause",
    "dependencies": {
-      "bootstrap": "^4.5.0"
+      "bootstrap": "^4.5.0",
+      "ws": "^7.3.1"
    }
 }
